@@ -1,0 +1,11 @@
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/obj/Debug/netcoreapp2.1/Bank Account Problem.csproj.CoreCompileInputs.cache
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/obj/Debug/netcoreapp2.1/Bank Account Problem.AssemblyInfoInputs.cache
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/obj/Debug/netcoreapp2.1/Bank Account Problem.AssemblyInfo.cs
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/bin/Debug/netcoreapp2.1/Bank Account Problem.deps.json
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/bin/Debug/netcoreapp2.1/Bank Account Problem.runtimeconfig.json
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/bin/Debug/netcoreapp2.1/Bank Account Problem.runtimeconfig.dev.json
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/bin/Debug/netcoreapp2.1/Bank Account Problem.dll
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/bin/Debug/netcoreapp2.1/Bank Account Problem.pdb
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/obj/Debug/netcoreapp2.1/Bank Account Problem.dll
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/obj/Debug/netcoreapp2.1/Bank Account Problem.pdb
+/Users/rajatmittal/Desktop/Repositories/Practice Activities /Bank Account Problem/obj/Debug/netcoreapp2.1/Bank Account Problem.csprojResolveAssemblyReference.cache
